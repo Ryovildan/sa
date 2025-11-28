@@ -8,8 +8,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint **/*.{js,ts,vue} && stylelint **/*.{scss,vue}",
-    "ts": "vue-tsc --noEmit"
+    "preview": "vite preview"
   },
   "dependencies": {
     "vue": "3.5.22",
